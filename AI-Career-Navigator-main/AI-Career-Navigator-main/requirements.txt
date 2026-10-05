@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+beautifulsoup4
+pdfplumber
+pypdf
+joblib
+requests
+gTTS

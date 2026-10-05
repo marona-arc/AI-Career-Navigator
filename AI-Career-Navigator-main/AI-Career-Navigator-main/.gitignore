@@ -1,0 +1,44 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache / build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.pyre/
+
+# Jupyter / notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code / IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+*.env
+.streamlit/secrets.toml
+
+# Local logs / temp files
+*.log
+tmp/
+temp/
+
+# Project data files to keep local
+candidate_job_pairs.csv
+
+# Optional package manager caches
+pip-wheel-metadata/
+.venv*
